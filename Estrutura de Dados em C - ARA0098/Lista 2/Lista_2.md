@@ -1,5 +1,7 @@
 Estrutura de Dados HOMOGÊNEA
+
 A) VETORES
+
   1) Crie um programa que lê 10 valores inteiros, insere em um vetor e mostre na tela os valores lidos.
 
   2) Ler um conjunto de números reais, armazenando-o em vetor e calcular o quadrado das componentes deste
@@ -17,7 +19,7 @@ A) VETORES
   6) Faça um programa que preencha um vetor com 10 números reais, calcule e mostre a quantidade de números
     negativos e a soma dos números positivos desse vetor.
 
-  g7) Faça um programa que leia um vetor de 10 números. Leia um número 𝑥. Conte os múltiplos 𝑥 do vetor e
+  7) Faça um programa que leia um vetor de 10 números. Leia um número 𝑥. Conte os múltiplos 𝑥 do vetor e
     mostre-os na tela.
 
   8) Faça um vetor de tamanho 10 preenchido com o seguinte valor: (𝑖 + 5 ∗ 𝑖) ∗ (𝑖 + 1), sendo 𝑖 a posição do
@@ -35,6 +37,7 @@ A) VETORES
     possuem distância de Hamming 1 pois se diferem em apenas 1 posição.
 
 B) MATRIZES
+
   12) Leia uma matriz 4 x 4, conte e escreva quantos valores maiores que 10 ela possui.
 
   13) Declare uma matriz 5 x 5. Preencha com 1 a diagonal principal e com 0 os demais elementos. Escreva ao final a
