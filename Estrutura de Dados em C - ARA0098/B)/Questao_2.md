@@ -13,6 +13,7 @@ implementada, a mesma deve implementar as funções abaixo (em outro menu de esc
   b. Estrutura Fila: Enqueue, Dequeue, Imprimir Fila, Limpar Fila, Maior elemento da Fila, Menor elemento da Fila. (1 ponto)
   
   c. Estrutura Árvore e todas as operações vista em aula, bem como as seguintes operações:
+  
     i. Implemente a função de Buscar elemento na Árvore Binária.
     ii. Implemente a função para imprimir os elementos da sub-árvore a direita primeiro, imprime a raiz e depois imprime a sub-árvore a esquerda.
     iii. Implemente a função recursiva que irá retornar o maior elemento da Árvore Binária.
