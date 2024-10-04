@@ -64,8 +64,9 @@ B) MATRIZES
     colunas dessa matriz.
 
   22) Gerar e imprimir uma matriz de tamanho 4 x 14, onde seus elementos são da forma:
-      a. 𝐴[𝑖][𝑗] = 2𝑖 + 7𝑗 − 2, se 𝑖 < 𝑗;
-      b. 𝐴[𝑖][𝑗] = 3𝑖^2 − 1, se 𝑖 = 𝑗;
-      c. 𝐴[𝑖][𝑗] = 4𝑖^3 − 5𝑗^2 + 1, se 𝑖 > 𝑗.
+      
+          a. 𝐴[𝑖][𝑗] = 2𝑖 + 7𝑗 − 2, se 𝑖 < 𝑗;
+          b. 𝐴[𝑖][𝑗] = 3𝑖^2 − 1, se 𝑖 = 𝑗;
+          c. 𝐴[𝑖][𝑗] = 4𝑖^3 − 5𝑗^2 + 1, se 𝑖 > 𝑗.
 
-  23) Ler uma matriz de dimensões especificadas pelo usuário e imprima a soma das linhas e colunas dessa matriz. 
+  24) Ler uma matriz de dimensões especificadas pelo usuário e imprima a soma das linhas e colunas dessa matriz. 
